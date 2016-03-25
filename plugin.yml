@@ -1,14 +1,14 @@
-name: How
-description: How to play your server
-author: DJKaiMc
+name: MNNew
+description: Command for newbies #SHEEP
+author: #SHEEP
 main: DJK\how\Main
 load: POSTWORLD
-version: 1.0.1
-api: [1.8.0]
+version: 1.0.0
+api: [1.12.0,2.0.0]
 commands:
     how:
         usage: /how
-        description: §eHow to play!
+        description: §eHow to play on MNetwork!
 permissions:
     djkai.how:
         default: true
